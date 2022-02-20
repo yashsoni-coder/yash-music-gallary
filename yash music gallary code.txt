@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name ="viewport" content="width=device-width, initial-scale1.0">
+        <title>
+            responsive music gallary 
+        </title>
+    </head>
+    <body>
+        <div class="container">
+            <div class="heading"> Yash Music Gallary </div>
+         <div class="music container">
+             <div class="box">
+                 <div class="Music">
+                     <audio controls >
+                             <source src="https://pagalsong.in/uploads/systemuploads/mp3/Roohi/Bhootni - Roohi 128 Kbps.mp3" type="audio/mpeg">
+                        
+                            </source>
+                        </audio>
+
+                     
+                 </div>
+             </div>
+         </div>
+         
+         
+          <div class="music container">
+             <div class="box">
+                 <div class="Music">
+                     <audio controls >
+                             <source src="https://pagalsong.in/uploads/systemuploads/mp3/Pati Patni Aur Woh/Ankhiyon Se Goli Mare - Pati Patni Aur Woh 128 Kbps.mp3" type="audio/mpeg">
+                        
+                            </source>
+                        </audio>
+
+                     
+                 </div>
+             </div>
+          </div>
+        
+          
+         
+          <div class="music container">
+              <div class="box">
+                  <div class="Music">
+                    <audio controls >
+                            <source src="https://pagalsong.in/uploads/systemuploads/mp3/Haryanvi Beat - Diler Kharkiya/Haryanvi Beat - Diler Kharkiya 128 Kbps.mp3" type="audio/mpeg">
+                       
+                           </source>
+                       </audio>
+
+                    
+                  </div>
+              </div>
+          </div>
+          <div class="music container">
+               <div class="box">
+                   <div class="Music">
+                     <audio controls >
+                            <source src="https://pagalsong.in/uploads/systemuploads/mp3/Radhe - Your Most Wanted Bhai/Seeti Maar - Radhe Your Most Wanted Bhai 128 Kbps.mp3" type="audio/mpeg">
+                       
+                           </source>
+                       </audio>
+
+                    
+                   </div>
+            </div>
+      </div>
+
+    </body>
+</html>
